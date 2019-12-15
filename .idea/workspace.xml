@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d67a78f-4115-4497-a70b-6cebef8638f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqXe49w5MSB9PWW5nZfw3Irkr2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.stqa.pft.addressbook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GroupDeletionTests">
+    <configuration name="GroupCreateTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreateTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupCreationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDeletionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupDeletionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDeletionTests.testsGroupFacks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.GroupDeletionTests" />
+      <option name="METHOD_NAME" value="testsGroupFacks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTests.testArea" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Daniil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Java_test" />
+      <option name="MAIN_CLASS_NAME" value="Java_test.SquareTests" />
+      <option name="METHOD_NAME" value="testArea" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GroupDeletionTests" />
+        <item itemvalue="TestNG.GroupCreateTests" />
+        <item itemvalue="TestNG.GroupDeletionTests.testsGroupFacks" />
+        <item itemvalue="TestNG.GroupCreationTests" />
+        <item itemvalue="TestNG.SquareTests.testArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d67a78f-4115-4497-a70b-6cebef8638f9" name="Default Changelist" comment="" />
+      <created>1576085191068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576085191068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="272" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1576428374218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="272" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576428374218" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1576428930466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576428930466" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1576428930466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576428930466" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1576428930466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576428930466" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1576428930466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576428930466" />
+    <state x="694" y="174" width="532" height="716" key="RefactorJ.IntroduceParameterObject" timestamp="1576426789844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="174" width="532" height="716" key="RefactorJ.IntroduceParameterObject/0.0.1920.1040@0.0.1920.1040" timestamp="1576426789844" />
+    <state x="775" y="453" key="ReplaceDuplicatesPrompt" timestamp="1576425687823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1576425687823" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1576423601992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576423601992" />
+    <state x="690" y="275" width="540" height="499" key="extract.method.dialog" timestamp="1576427911245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" width="540" height="499" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576427911245" />
+  </component>
+</project>
